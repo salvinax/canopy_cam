@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VUYJLUAJ
 
 [Document4]
-DocumentPath=..\..\..\..\..\Documents\AltiumLL\SamacSys.SchLib
+DocumentPath=..\..\..\..\..\salvi\Documents\AltiumLL\SamacSys.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
 [Document5]
-DocumentPath=..\..\..\..\..\Documents\AltiumLL\SamacSys.PcbLib
+DocumentPath=..\..\..\..\..\salvi\Documents\AltiumLL\SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -167,6 +167,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VNADOFCA
+
+[GeneratedDocument1]
+DocumentPath=..\outputs_NO_SVN\Design Rule Check - 400236.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=BoardThickness
